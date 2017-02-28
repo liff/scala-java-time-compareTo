@@ -1,0 +1,8 @@
+# Demo
+
+Demonstrates a problem with `Duration.compareTo`.
+
+Reproduce with:
+
+    sbt clean fastOptJS
+
